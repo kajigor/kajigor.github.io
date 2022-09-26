@@ -1,1 +1,1 @@
-# kajigor.github.io
+# myblog
